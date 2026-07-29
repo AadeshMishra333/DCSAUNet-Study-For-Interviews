@@ -37,13 +37,22 @@ graph TD
 
 - [ ] **In-Class Prep:** Recap ML class notes.
 - [ ] **Prompt AI Agent:**
-  - [ ] **Step 1:** Share study plan requirements & attach model architecture.
-  - [ ] **Step 2:** Cover foundational concepts from Chapters 4, 5, and 9 (Charu book).
+  - [x] **Step 1:** Share study plan requirements & attach model architecture.
+  - [X] **Step 2:** Cover foundational concepts from Chapters 4, 5, and 9 (Charu book).
   - [ ] **Step 3:** Generate 100+ interview-ready questions.
-- [ ] **Targeted Reading:** Complete assigned chapters from *NN and DL* by Charu.
+- [X] **Targeted Reading:** Complete assigned chapters from *NN and DL* by Charu.
 - [ ] **Architecture Connections:** Map foundational deep learning concepts directly to the DCSAU-Net pipeline.
 - [ ] **Interview & Speaking Practice:** Practice top questions on the model, general DL concepts, and draft clear answers for fluent speaking.
 - [ ] **Study Plan Completion:** Finalize the study plan and ask for active feedback.
 - [ ] **Gap Analysis:** Address and cover all remaining knowledge gaps.
 
 _Let's do this Jai Shree Krishna_
+
+### 📅 Date: 28-07-2026
+
+* **After the prompt:** The AI guided me to complete specific sections from chapter 9 only can saftely ignore chapters 4 and 5 for now and move on to DCSAUnet ESE after confidently answering a question set it has provided.
+* Started Chapter 9 stopping point section 9.2.1 Padding
+
+### 📅 Date: 29-07-2026
+* **Topics Completed:** Basic structure(convolution, filters, dimension, depth, spatial dimension, receptive field), Padding, Strides, Pooling, Hierarchical Feature Engineering, ResNet and SENet, now ask copilot if this is enough to proceed to the next step?
+* **Test Passed!!** I cracked the questions from the above topics and am ready to move forward with the architecture starting with the PFC block first, this would be done tomorrow
