@@ -56,3 +56,7 @@ _Let's do this Jai Shree Krishna_
 ### 📅 Date: 29-07-2026
 * **Topics Completed:** Basic structure(convolution, filters, dimension, depth, spatial dimension, receptive field), Padding, Strides, Pooling, Hierarchical Feature Engineering, ResNet and SENet, now ask copilot if this is enough to proceed to the next step?
 * **Test Passed!!** I cracked the questions from the above topics and am ready to move forward with the architecture starting with the PFC block first, this would be done tomorrow
+
+### 📅 Date: 07-08-2026
+* **Had a bit of slowdown due to DSA grind**
+* [ ] **The Mathematical Formulas:** Sir has given [mathematical formulations](https://outlook.cloud.microsoft/host/b5abf2ae-c16b-4310-8f8a-d3bcdb52f162/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429)(Mathematical Description Of DCSAU net), I need to write in own words to prevent plagarism. Finish by today.
