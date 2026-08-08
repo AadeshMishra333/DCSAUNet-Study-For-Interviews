@@ -59,4 +59,7 @@ _Let's do this Jai Shree Krishna_
 
 ### 📅 Date: 07-08-2026
 * **Had a bit of slowdown due to DSA grind**
-* [ ] **The Mathematical Formulas:** Sir has given [mathematical formulations](https://outlook.cloud.microsoft/host/b5abf2ae-c16b-4310-8f8a-d3bcdb52f162/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429)(Mathematical Description Of DCSAU net), I need to write in own words to prevent plagarism. Finish by today.
+* [x] **The Mathematical Formulas:** Sir has given [mathematical formulations](https://outlook.cloud.microsoft/host/b5abf2ae-c16b-4310-8f8a-d3bcdb52f162/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429)(Mathematical Description Of DCSAU net), I need to write in own words to prevent plagarism. Finish by today.
+
+### 📅 Date: 08-08-2026
+* Completed and gave sir the mathematical part
