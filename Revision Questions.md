@@ -20,4 +20,4 @@
 - Why add the refined feature back to the input through a residual connection?
 - Why might ESE be more useful in the decoder than the encoder?
 
-  # CSAE The novelty
+# CSAE The novelty
