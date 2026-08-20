@@ -20,4 +20,6 @@
 - Why add the refined feature back to the input through a residual connection?
 - Why might ESE be more useful in the decoder than the encoder?
 
-# CSAE The novelty
+# 30 Seconds Architecture Overview
+
+> The network follows an encoder-decoder structure. The PFCBlock first extracts multi-scale low-level features using standard, depthwise and pointwise convolutions with residual learning. Three CSABlock encoder stages progressively increase contextual understanding while reducing spatial resolution through max pooling. At the bottleneck, the network captures high-level semantic information. During decoding, bilinear upsampling and skip connections progressively restore resolution. Each decoder stage employs CSABlock_ESE, where CSA performs feature selection between branch representations and ESE refines channel-wise and spatial importance. Finally, a 1×1 convolution produces pixel-level logits that are converted to segmentation probabilities using a sigmoid function during inference
