@@ -63,3 +63,6 @@ _Let's do this Jai Shree Krishna_
 
 ### 📅 Date: 08-08-2026
 * Completed and gave sir the mathematical part
+
+### 📅 Date: 20-08-2026
+* Completing the Architecture part also maintaining [Revision Questions](https://github.com/AadeshMishra333/DCSAUNet-Study-For-Interviews/blob/main/Revision%20Questions.md)
