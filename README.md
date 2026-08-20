@@ -41,7 +41,7 @@ graph TD
   - [X] **Step 2:** Cover foundational concepts from Chapters 4, 5, and 9 (Charu book).
   - [ ] **Step 3:** Generate 100+ interview-ready questions.
 - [X] **Targeted Reading:** Complete assigned chapters from *NN and DL* by Charu.
-- [ ] **Architecture Connections:** Map foundational deep learning concepts directly to the DCSAU-Net pipeline.
+- [X] **Architecture Connections:** Map foundational deep learning concepts directly to the DCSAU-Net pipeline.
 - [ ] **Interview & Speaking Practice:** Practice top questions on the model, general DL concepts, and draft clear answers for fluent speaking.
 - [ ] **Study Plan Completion:** Finalize the study plan and ask for active feedback.
 - [ ] **Gap Analysis:** Address and cover all remaining knowledge gaps.
@@ -66,3 +66,4 @@ _Let's do this Jai Shree Krishna_
 
 ### 📅 Date: 20-08-2026
 * Completing the Architecture part also maintaining [Revision Questions](https://github.com/AadeshMishra333/DCSAUNet-Study-For-Interviews/blob/main/Revision%20Questions.md)
+* Architecture Section is Completed
